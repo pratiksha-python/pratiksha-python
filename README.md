@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Pratiksha Navgrahe 👋
 
-<!--
-**pratiksha-python/pratiksha-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence and Machine Learning (AIML)
 
-Here are some ideas to get you started:
+💻 Interested in Python, Artificial Intelligence, Machine Learning, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🌱 Currently learning Python and AI/ML fundamentals.
+- 🛠️ Building projects to improve my programming skills.
+- 🧠 Exploring real-world applications of Artificial Intelligence.
+- 🎯 Working towards a career in AI and Data Science.
+
+💻 Skills
+
+- Programming: Python, C
+- Web Development: HTML, CSS
+- Core Concepts: AI/ML Fundamentals, Data Structures and Algorithms
+- Tools: Git, GitHub, VS Code
+
+📂 Featured Projects
+
+🌡️ AI-Powered Thermal Mission and Thermal Passport
+
+A project focused on temperature information and thermal data visualization.
+
+🤖 Basic Chatbot
+
+A beginner-friendly Python chatbot project.
+
+🎮 Hangman Game
+
+A word-guessing game built using Python.
+
+🔢 Guess the Number Game
+
+A simple Python game that practices conditional logic and user input.
+
+📫 Connect With Me
+
+- GitHub: https://github.com/pratiksha-python
+
+---
+
+⭐ Learning, building, and improving one project at a time.
